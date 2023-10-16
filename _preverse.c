@@ -17,7 +17,7 @@ int _strlenv(char *s)
 /**
  * _preverse - prints a string
  * @arg: string
- * Return: string length
+ * Return: strings length
  */
 int _preverse(va_list arg)
 {
