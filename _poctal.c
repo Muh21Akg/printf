@@ -34,7 +34,7 @@ loop:
 /**
  * _poctal - prints an unsigned int argument
  * @arg: argument
- * Return: no of chars printed
+ * Return: no of bytes printed
  */
 int _poctal(va_list arg)
 {
