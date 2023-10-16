@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * prinu - does the actual printing
+ * prinu - does the actual printingg
  * @u: int to be printedi
  */
 void prinu(unsigned int u)
