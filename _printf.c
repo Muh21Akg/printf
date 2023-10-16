@@ -2,7 +2,7 @@
 
 /**
  * _printf - a custom formatted print function
- * @format: format string
+ * @format: format stringg
  * Return: length of printed string
  */
 int _printf(const char *format, ...)
