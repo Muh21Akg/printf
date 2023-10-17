@@ -22,7 +22,7 @@ int _phexa(va_list x);
 /**
  * struct format_functions - structure of type format with two elements
  * @src: placeholder
- * @des: function to process it
+ * @des: function to be processed
  */
 typedef struct format_functions
 {
